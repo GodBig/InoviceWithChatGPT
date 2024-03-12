@@ -5,4 +5,4 @@ Search information with ChatGPT API:
 
 Get information showing on the Tax Invoice
 
-![Uploading 1710249704311.png…]()
+![image](https://github.com/GodBig/InoviceWithChatGPT/assets/24643769/b22f3324-1b06-4cfd-af15-fd7729474fcf)
