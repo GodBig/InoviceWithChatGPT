@@ -1,6 +1,6 @@
 # InoviceWithChatGPT
 The target of this program is
-Searching information with ChatGPT API:
+Searching information with Python, PyTorch (ResNet18), LangChain (Agent), OpenAI Fine-tuning:
 
 ![image](https://github.com/GodBig/InoviceWithChatGPT/assets/24643769/f6ebe0ce-6330-4524-b68a-5981b07f1d20)
 
